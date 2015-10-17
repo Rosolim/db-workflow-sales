@@ -4,11 +4,11 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="widget">
-					<h3>Contact Information</h3>
+					<h3>Informações para contato</h3>
 					<address>
-						1-234-567-8900<br /> Anytown, XX 12345<br /> Lorem ipsum dolor
-						sit amet.<br /> info@mysite.com<br /> 1.555.555.5554<br />
-						Indonesia<br /> <abbr title="Phone">Mobile :</abbr> +628995001222<br />
+						74690-110<br /> Rua Maracanã Qd 37 Lt 15 Cs 02<br /> Jardim Pompéia <br /> 
+						rafaela.araujo.semijoias@gmail.com<br /> Goiânia-GO <br /> Brasil <br /> 
+						<abbr title="Phone">Celular :</abbr> +55 (62) 8314-8662<br />
 					</address>
 				</div>
 

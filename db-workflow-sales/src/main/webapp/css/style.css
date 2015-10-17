@@ -472,6 +472,7 @@ a:hover.no-underline{
     ==================
 */
 #home-slider.carousel{
+	/* Original size of photos - width: 100% largura alteração em 205016out15*/
     width: 100%;
     position: relative;
     margin-bottom: 0;
@@ -480,7 +481,8 @@ a:hover.no-underline{
 #home-slider .carousel-inner > .item > img,
 #home-slider .carousel-inner > .item > a > img {
     display: block;
-    max-width: 100%;
+    /* Original size of photos - width: 100% altura alteração em 205016out15*/
+    max-width: 30%;
     height: auto;
     line-height: 1;
 }

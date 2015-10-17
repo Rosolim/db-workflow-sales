@@ -12,7 +12,7 @@
 <div class="row product-container">
 	<div class="col-md-3 col-sm-3 col-xs-6">
 		<div class="thumbnail product-item">
-			<a href="product_detail.html"><img alt="" src="img/01.jpg"></a>
+			<a href="productDetail.jsp"><img alt="" src="img/01.jpg"></a>
 			<div class="caption">
 				<h5>Casual Rock Pants</h5>
 				<p>$54.00</p>
@@ -23,7 +23,7 @@
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6">
 		<div class="thumbnail product-item">
-			<a href="product_detail.html"><img alt="" src="img/02.jpg"></a>
+			<a href="productDetail.jsp"><img alt="" src="img/02.jpg"></a>
 			<div class="caption">
 				<h5>T-shirt</h5>
 				<p class="product-item-price">$54.00</p>
@@ -33,7 +33,7 @@
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6">
 		<div class="thumbnail product-item">
-			<a href="product_detail.html"><img alt="" src="img/03.jpg"></a>
+			<a href="productDetail.jsp"><img alt="" src="img/03.jpg"></a>
 			<div class="caption">
 				<h5>Casual Rock Pants</h5>
 				<p>
@@ -47,7 +47,7 @@
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6">
 		<div class="thumbnail product-item">
-			<a href="product_detail.html"><img alt="" src="img/04.jpg"></a>
+			<a href="productDetail.jsp"><img alt="" src="img/04.jpg"></a>
 			<div class="caption">
 				<h5>Casual Rock T-Shirt</h5>
 				<p>$54.00</p>

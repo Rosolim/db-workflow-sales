@@ -1,3 +1,4 @@
+<!-- Fotos da página index -->
 <!-- begin:home-slider -->
 <div id="home-slider" class="carousel slide" data-ride="carousel">
 	<ol class="carousel-indicators">
@@ -9,23 +10,22 @@
 		<div class="item active">
 			<img src="img/sl01.jpg" alt="RafaelaAraujo">
 			<div class="carousel-caption hidden-xs">
-				<h3>First slide label</h3>
-				<p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+				<h3>Primeira foto</h3>
+				<p>Este é o texto que irá para primeira foto</p>
 			</div>
 		</div>
 		<div class="item">
 			<img src="img/sl04.jpg" alt="RafaelaAraujo">
 			<div class="carousel-caption hidden-xs">
-				<h3>Second slide label</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+				<h3>Segunda foto</h3>
+				<p>Este é o texto que irá para segunda foto</p>
 			</div>
 		</div>
 		<div class="item">
-			<img src="img/sl0.jpg" alt="RafaelaAraujo">
+			<img src="img/sl05.jpg" alt="RafaelaAraujo">
 			<div class="carousel-caption hidden-xs">
-				<h3>Third slide label</h3>
-				<p>Praesent commodo cursus magna, vel scelerisque nisl
-					consectetur.</p>
+				<h3>Terceira foto</h3>
+				<p>Este é o texto que irá para terceira foto</p>
 			</div>
 		</div>
 	</div>

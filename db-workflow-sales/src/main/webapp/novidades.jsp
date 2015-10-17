@@ -12,7 +12,7 @@
 <div class="row product-container">
 	<div class="col-md-3 col-sm-3 col-xs-6">
 		<div class="thumbnail product-item">
-			<a href="product_detail.html"><img alt="" src="img/09.jpg"></a>
+			<a href="productDetail.jsp"><img alt="" src="img/09.jpg"></a>
 			<div class="caption">
 				<h5>Pants</h5>
 				<p>$54.00</p>
@@ -22,7 +22,7 @@
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6">
 		<div class="thumbnail product-item">
-			<a href="product_detail.html"><img alt="" src="img/10.jpg"></a>
+			<a href="productDetail.jsp"><img alt="" src="img/10.jpg"></a>
 			<div class="caption">
 				<h5>Pants</h5>
 				<p>$54.00</p>
@@ -32,7 +32,7 @@
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6">
 		<div class="thumbnail product-item">
-			<a href="product_detail.html"><img alt="" src="img/11.jpg"></a>
+			<a href="productDetail.jsp"><img alt="" src="img/11.jpg"></a>
 			<div class="caption">
 				<h5>Pants</h5>
 				<p>$54.00</p>
@@ -42,7 +42,7 @@
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6">
 		<div class="thumbnail product-item">
-			<a href="product_detail.html"><img alt="" src="img/12.jpg"></a>
+			<a href="productDetail.jsp"><img alt="" src="img/12.jpg"></a>
 			<div class="caption">
 				<h5>Pants</h5>
 				<p>$54.00</p>

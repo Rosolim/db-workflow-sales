@@ -18,11 +18,11 @@
 							<a href="index.jsp#">Sua Conta</a>
 						</h4>
 						<p>
-							Bem-Vindo, <a href="login.html">Acesse </a>
+							Bem-Vindo, <a href="login.jsp">Acesse </a>
 						</p>
 					</div>
 					<div class="visible-xs">
-						<a href="login.html" class="btn btn-primary"><i
+						<a href="login.jsp" class="btn btn-primary"><i
 							class="fa fa-user"></i></a>
 					</div>
 				</li>

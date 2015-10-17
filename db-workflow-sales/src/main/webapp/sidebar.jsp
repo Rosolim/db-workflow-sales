@@ -13,7 +13,7 @@
 								1 <a href="product_detail.html">Blackbox</a> <span>[ 26 ]</span>
 							</div>
 							<div class="col-sm-5 col-xs-5 text-right">
-								<strong>$54.00</strong> <a href="account.html#"><i
+								<strong>$54.00</strong> <a href="account.jsp#"><i
 									class="fa fa-trash-o"></i></a>
 							</div>
 						</div>
@@ -24,7 +24,7 @@
 								1 <a href="product_detail.html">JunkShirt</a> <span>[ M ]</span>
 							</div>
 							<div class="col-sm-5 col-sm-5 text-right">
-								<strong>$26.00</strong> <a href="account.html#"><i
+								<strong>$26.00</strong> <a href="account.jsp#"><i
 									class="fa fa-trash-o"></i></a>
 							</div>
 						</div>
@@ -61,10 +61,10 @@
 					<h3>Category</h3>
 				</div>
 				<ul class="nav nav-pills nav-stacked">
-					<li class="active"><a href="account.html#">Acessories</a></li>
-					<li><a href="account.html#">Girl</a></li>
-					<li><a href="account.html#">Boy</a></li>
-					<li><a href="account.html#">Edition</a></li>
+					<li class="active"><a href="account.jsp#">Acessories</a></li>
+					<li><a href="account.jsp#">Girl</a></li>
+					<li><a href="account.jsp#">Boy</a></li>
+					<li><a href="account.jsp#">Edition</a></li>
 				</ul>
 			</div>
 			<!-- break -->
